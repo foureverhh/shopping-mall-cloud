@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: eureka-server
+server:
+  port: 10010
+#关闭eureka自己注册自己
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false

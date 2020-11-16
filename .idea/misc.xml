@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -8,13 +7,5 @@
       </list>
     </option>
   </component>
-  <component name="ProjectResources">
-    <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/e1f42d95_maven-4.0.0.xsd" />
-    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/69c70a2f_mybatis-3-config.dtd" />
-    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
-    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="13" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="13" project-jdk-type="JavaSDK" />
 </project>

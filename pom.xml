@@ -91,5 +91,6 @@
     <modules>
         <module>common_mapper</module>
         <module>common_pojo</module>
+        <module>common_eureka</module>
     </modules>
 </project>

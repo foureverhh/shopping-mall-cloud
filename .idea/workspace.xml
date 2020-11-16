@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ad21df0-0922-4c2b-bfa3-5e5e59bda3b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/common_eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_eureka/src/main/java/com/shop/eureka/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bz_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1k62M4ufbMXsizCkWtuSX4VvOTZ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="3f01ade7-7728-47ac-acae-bf520fad4854" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common_pojo/src/main/java/com/shop/pojo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common_pojo/src/main/java/com/shop/pojo" />
+      <recent name="$PROJECT_DIR$/common_mapper/src/main/java/com/shop/mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="common_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shop.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ad21df0-0922-4c2b-bfa3-5e5e59bda3b4" name="Default Changelist" comment="" />
+      <created>1605006672390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605006672390</updated>
+      <workItem from="1605006676624" duration="1524000" />
+      <workItem from="1605016042336" duration="965000" />
+      <workItem from="1605208777318" duration="1532000" />
+      <workItem from="1605266333823" duration="596000" />
+      <workItem from="1605266935376" duration="117000" />
+      <workItem from="1605267097977" duration="41000" />
+      <workItem from="1605267163214" duration="6076000" />
+      <workItem from="1605532066168" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1605269550409">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1605269550409" />
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605268759050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1605268759050" />
+    <state width="1398" height="583" key="GridCell.Tab.0.bottom" timestamp="1605532206706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605532206706" />
+    <state width="1398" height="583" key="GridCell.Tab.0.center" timestamp="1605532206704">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605532206704" />
+    <state width="1398" height="583" key="GridCell.Tab.0.left" timestamp="1605532206703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605532206703" />
+    <state width="1398" height="583" key="GridCell.Tab.0.right" timestamp="1605532206705">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605532206705" />
+    <state width="1398" height="583" key="GridCell.Tab.1.bottom" timestamp="1605532206710">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605532206710" />
+    <state width="1398" height="583" key="GridCell.Tab.1.center" timestamp="1605532206708">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605532206708" />
+    <state width="1398" height="583" key="GridCell.Tab.1.left" timestamp="1605532206707">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605532206707" />
+    <state width="1398" height="583" key="GridCell.Tab.1.right" timestamp="1605532206709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="583" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605532206709" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1605268493420">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1605268493420" />
+    <state x="130" y="63" key="SettingsEditor" timestamp="1605532132930">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="130" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605532132929" />
+    <state x="409" y="147" key="new project wizard" timestamp="1605443959790">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="409" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1605443959790" />
+  </component>
+</project>
