@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/common_eureka/common_eureka.iml" filepath="$PROJECT_DIR$/common_eureka/common_eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/common_mapper/common_mapper.iml" filepath="$PROJECT_DIR$/common_mapper/common_mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/common_pojo/common_pojo.iml" filepath="$PROJECT_DIR$/common_pojo/common_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/common_utils/common_utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/shopping_mall_cloud.iml" filepath="$PROJECT_DIR$/.idea/shopping_mall_cloud.iml" />
     </modules>
   </component>
