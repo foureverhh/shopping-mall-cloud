@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="shopping_mall_cloud" uuid="cbf0faeb-d051-470d-9e56-bafbb775ca6b">
+      <driver-ref>3f01ade7-7728-47ac-acae-bf520fad4854</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/bz_shop?serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>

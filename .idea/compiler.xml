@@ -10,10 +10,12 @@
         <module name="common_pojo" />
         <module name="common_mapper" />
         <module name="common_utils" />
+        <module name="common_item" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common_eureka" target="1.8" />
+      <module name="common_item" target="1.8" />
       <module name="common_mapper" target="1.8" />
       <module name="common_pojo" target="1.8" />
       <module name="common_utils" target="1.8" />
@@ -23,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="common_eureka" options="-parameters" />
+      <module name="common_item" options="-parameters" />
       <module name="common_mapper" options="-parameters" />
       <module name="common_pojo" options="-parameters" />
       <module name="common_utils" options="-parameters" />

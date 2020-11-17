@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: common-item
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/bz_shop?serverTimezone=UTC
+    username: root
+    password: vps2020
+    type: com.alibaba.druid.pool.DruidDataSource
+
+server:
+  port: 9010
+
+eureka:
+  client:
+    serviceUrl:
+      #eureka server url
+      defaultZone: http://eureka-server:10010/eureka/
+
