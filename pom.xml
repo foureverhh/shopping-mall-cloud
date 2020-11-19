@@ -20,7 +20,7 @@
     <!--自定义标签-->
     <properties>
         <mybatis-version>3.5.1</mybatis-version>
-        <mysql-connector-java-version>5.1.38</mysql-connector-java-version>
+        <mysql-connector-java-version>8.0.20</mysql-connector-java-version>
         <druid-version>1.0.9</druid-version>
         <pagehelper-version>1.2.10</pagehelper-version>
         <logback-version>5.0</logback-version>
@@ -94,5 +94,6 @@
         <module>common_eureka</module>
         <module>common_utils</module>
         <module>common_item</module>
+        <module>backend_item</module>
     </modules>
 </project>

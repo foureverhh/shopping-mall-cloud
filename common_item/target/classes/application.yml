@@ -2,8 +2,8 @@ spring:
   application:
     name: common-item
   datasource:
-    driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/bz_shop?serverTimezone=UTC
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/bz_shop?serverTimezone=UTC&autoReconnect=true&useSSL=false
     username: root
     password: vps2020
     type: com.alibaba.druid.pool.DruidDataSource
