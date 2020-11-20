@@ -1,6 +1,7 @@
 package com.shpp.back_end.feign;
 
 import com.shop.pojo.TbItemCat;
+import com.shop.pojo.TbItemParam;
 import com.shop.utils.PageResult;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,4 +18,8 @@ public interface CommonItemFeignClient {
     //...../service/itemCategory
     @GetMapping("/service/itemCategory/selectItemCategoryByParentId")
     List<TbItemCat> selectItemCategoryByParentId(@RequestParam(name="id") Long id);
+
+    //...../service/itemParam
+    @GetMapping("/service/itemParam/selectItemParamByItemCatId")
+    TbItemParam selectItemParamByItemCatId(@RequestParam Long itemCatId);
 }
