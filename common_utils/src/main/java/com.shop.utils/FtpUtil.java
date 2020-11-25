@@ -40,20 +40,29 @@ public static boolean uploadFile(String host, int port, String username, String 
 			// 如果采用默认端口，可以使用ftp.connect(host)的方式直接连接FTP服务器
 			ftp.login(username, password);// 登录
 			reply = ftp.getReplyCode();
+			System.out.println("reply outside is： " +  reply);
 			if (!FTPReply.isPositiveCompletion(reply)) {
 				ftp.disconnect();
+				System.out.println("reply inside is： " +  reply);
 				return result;
 			}
 			//切换到上传目录
 			if (!ftp.changeWorkingDirectory(basePath+filePath)) {
+				System.out.println("Creat new directory as: " + basePath+filePath);
 				//如果目录不存在创建目录
 				String[] dirs = filePath.split("/");
 				String tempPath = basePath;
+				int counter = 0;
 				for (String dir : dirs) {
+					counter++;
+					System.out.println("Counter " + counter + ", dir: " + dir);
 					if (null == dir || "".equals(dir)) continue;
 					tempPath += "/" + dir;
+					System.out.println("Counter outside" + counter + ", tmepPath: " + tempPath);
 					if (!ftp.changeWorkingDirectory(tempPath)) {
+						System.out.println("Counter " + counter + ", tmepPath: " + tempPath);
 						if (!ftp.makeDirectory(tempPath)) {
+							System.out.println("Counter before result " + counter + ", tmepPath: " + tempPath);
 							return result;
 						} else {
 							ftp.changeWorkingDirectory(tempPath);
